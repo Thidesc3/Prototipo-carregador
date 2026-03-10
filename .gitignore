@@ -1,0 +1,9 @@
+# Proteus / PDS arquivos gerados
+*.pdsbak
+*.ldb
+*.DBK
+*.log
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
