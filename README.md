@@ -37,8 +37,8 @@ Isso cria uma tensão contínua, porém ainda com ondulação (ripple).
 ### 3️⃣ Filtragem
 
 A filtragem é realizada pelos capacitores:
-- **C1 (1µF)** – filtragem primária
-- **C2 (1nF)** – filtragem de ruído de alta frequência
+- **C1 (1000µF)** – filtragem primária
+- **C2 (100nF)** – filtragem de ruído de alta frequência
 
 Eles suavizam a tensão após a retificação.
 
@@ -49,7 +49,7 @@ Eles suavizam a tensão após a retificação.
 O regulador **U1 (7812)** estabiliza a tensão de saída em **12V DC**.
 
 O capacitor:
-- **C3 (1nF)** auxilia na estabilidade do regulador.
+- **C3 (100nF)** auxilia na estabilidade do regulador.
 
 ---
 
