@@ -67,10 +67,10 @@ O resistor **R1 (10Ω)** limita a corrente do LED.
 |:----------:|:----------:|:-----:|
 | J1 | Conector de entrada AC | 2 pinos |
 | BR1 | Ponte retificadora | Bridge |
-| C1 | Capacitor eletrolítico | 1µF |
-| C2 | Capacitor cerâmico | 1nF |
+| C1 | Capacitor eletrolítico | 1000µF |
+| C2 | Capacitor cerâmico | 100nF |
 | U1 | Regulador de tensão | 7812 |
-| C3 | Capacitor cerâmico | 1nF |
+| C3 | Capacitor cerâmico | 100nF |
 | R1 | Resistor | 10Ω |
 | D1 | LED indicador | - |
 | J2 | Conector de saída | 2 pinos |
